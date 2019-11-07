@@ -73,6 +73,12 @@ a {
     padding: 130px;
     margin: 20px;
 }
+
+/* Footer */
+
+footer {
+    text-align: center;
+}
 /*https://paulund.co.uk/how-to-create-shiny-css-buttons*/
 /***********************************************************************
  *  Green Background
